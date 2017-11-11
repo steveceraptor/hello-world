@@ -1,2 +1,2 @@
 # hello-world
-I'm newbie here
+I'm newbie here. Pythonista-beginner
